@@ -1,0 +1,16 @@
+{
+  "name": "infugle",
+  "description": "Infugle App",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
