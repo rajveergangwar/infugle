@@ -1,0 +1,25 @@
+{
+  "name": "infugle",
+  "version": "1.0.0",
+  "description": "infugle",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajveergangwar/infugle.git"
+  },
+  "keywords": [
+    "infugle"
+  ],
+  "author": "rajveer singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajveergangwar/infugle/issues"
+  },
+  "homepage": "https://github.com/rajveergangwar/infugle#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
