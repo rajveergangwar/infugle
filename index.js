@@ -10,3 +10,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.get("/hello",function(req,res) {
     res.send("Hello Response get from api");
 })
+
+app.get("/",function(req,res) {
+    res.send("Hello Response get from api");
+})
